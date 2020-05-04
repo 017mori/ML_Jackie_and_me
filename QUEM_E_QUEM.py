@@ -9,24 +9,24 @@ from sklearn.svm import SVR
 
 #### Importando as imagens do Jackie chan e as minhas fotos####
 #Fotos Jackie Chan
-jack1_i = cv2.imread(r'C:\Users\Matheus Mori\Desktop\japa\jack (1).jpg') 
-jack2_i = cv2.imread(r'C:\Users\Matheus Mori\Desktop\japa\jack (2).jpg') 
-jack3_i = cv2.imread(r'C:\Users\Matheus Mori\Desktop\japa\jack (3).jpg') 
-jack4_i = cv2.imread(r'C:\Users\Matheus Mori\Desktop\japa\jack (4).jpg') 
-jack5_i = cv2.imread(r'C:\Users\Matheus Mori\Desktop\japa\jack (5).jpg') 
-jack6_i = cv2.imread(r'C:\Users\Matheus Mori\Desktop\japa\jack (6).jpg') 
-jack7_i = cv2.imread(r'C:\Users\Matheus Mori\Desktop\japa\jack (7).jpg') 
-jack8_i = cv2.imread(r'C:\Users\Matheus Mori\Desktop\japa\jack (8).jpg') 
+jack1_i = cv2.imread(r'C:\Users\jack (1).jpg') 
+jack2_i = cv2.imread(r'C:\Users\jack (2).jpg') 
+jack3_i = cv2.imread(r'C:\Users\jack (3).jpg') 
+jack4_i = cv2.imread(r'C:\Users\jack (4).jpg') 
+jack5_i = cv2.imread(r'C:\Users\jack (5).jpg') 
+jack6_i = cv2.imread(r'C:\Users\jack (6).jpg') 
+jack7_i = cv2.imread(r'C:\Users\jack (7).jpg') 
+jack8_i = cv2.imread(r'C:\Users\jack (8).jpg') 
 
 #Minhas fotos
-mat1_i = cv2.imread(r'C:\Users\Matheus Mori\Desktop\japa\mat (1).jpg') 
-mat2_i = cv2.imread(r'C:\Users\Matheus Mori\Desktop\japa\mat (2).jpg') 
-mat3_i = cv2.imread(r'C:\Users\Matheus Mori\Desktop\japa\mat (3).jpg') 
-mat4_i = cv2.imread(r'C:\Users\Matheus Mori\Desktop\japa\mat (4).jpg') 
-mat5_i = cv2.imread(r'C:\Users\Matheus Mori\Desktop\japa\mat (5).jpg') 
-mat6_i = cv2.imread(r'C:\Users\Matheus Mori\Desktop\japa\mat (6).jpg') 
-mat7_i = cv2.imread(r'C:\Users\Matheus Mori\Desktop\japa\mat (7).jpg') 
-mat8_i = cv2.imread(r'C:\Users\Matheus Mori\Desktop\japa\mat (8).jpg') 
+mat1_i = cv2.imread(r'C:\Users\mat (1).jpg') 
+mat2_i = cv2.imread(r'C:\Users\mat (2).jpg') 
+mat3_i = cv2.imread(r'C:\Users\mat (3).jpg') 
+mat4_i = cv2.imread(r'C:\Users\mat (4).jpg') 
+mat5_i = cv2.imread(r'C:\Users\mat (5).jpg') 
+mat6_i = cv2.imread(r'C:\Users\mat (6).jpg') 
+mat7_i = cv2.imread(r'C:\Users\mat (7).jpg') 
+mat8_i = cv2.imread(r'C:\Users\mat (8).jpg') 
 
 #print(jack1_i.shape) #Tamanho das imagens
 
