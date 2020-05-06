@@ -1,3 +1,4 @@
-# ML_Jackie_and_me
- I used SVC and SVR models to classify some images of me and Jackie Chan.
- 
+# Me and Jackie
+*I applied some machine learning techniques for the identification and classification of images.*
+Apliquei algumas técnicas de aprendizado de máquina para a identificação e classificação de imagens.
+
