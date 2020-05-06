@@ -69,7 +69,7 @@ clf_lin = SVC(kernel='linear') #linear, poly, rbf
 svr_lin = SVR(kernel='poly')   #linear, poly, rbf
 
 #### Importando a imagem de teste ####
-test1_i = cv2.imread(r'C:\Users\Matheus Mori\Desktop\japa\teste\test (2).jpg') 
+test1_i = cv2.imread(r'C:\Users\test (2).jpg') 
 test1 = cv2.resize(test1_i,(10,10))
 
 #### MODELO SVC ####
