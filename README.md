@@ -7,5 +7,5 @@ Some of these images are of Jackie Chan's face and some others are of my face.
 
 ![me_and_jack](https://github.com/017mori/ML_Jackie_and_me/blob/master/jack_%26_me.jpg)
 
-At the end of the project I will publish an article with the performance of each technique on this problem of classification and recognition of images.
->Ao final do projeto vou publicar um artigo com o desempenho de cada tecnica sobre este problema de classificação e reconhecimento de imagens.
+At the end of this project I will publish an article with the performance of each technique on this problem of classification and recognition of images.
+>Ao final deste projeto, vou publicar um artigo com o desempenho de cada técnica, sobre este problema de classificação e reconhecimento de imagens.
